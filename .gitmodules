@@ -1,0 +1,5 @@
+[submodule "src/Maximilian"]
+	path = src/opusfile
+	url = https://github.com/micknoise/Maximilian
+
+
