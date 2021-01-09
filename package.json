@@ -1,22 +1,27 @@
 {
-	"name": "maximilian-js",
+	"name": "maximilian-wasm",
 	"version": "0.0.1",
-	"description": "Wrapper around the Maximilian DSP and Audio Library",
+	"description": "Bundles the Maximilian DSP and Audio Library WASM into an NPM package with different JS module formats",
 	"main": "dist/maximilian.js",
 	"files": [
 		"dist/*"
 	],
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/frantic0/maximilian-js.git"
+		"url": "git+https://github.com/frantic0/maximilian-wasm.git"
 	},
 	"keywords": [
-
+    "Synthesis",
+    "Playback",
+    "DSP",
+    "Signal Processing",
+    "Interactive Music",
+    "WASM"
 	],
 	"author": "frantic0",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/frantic0/maximilian-js/issues"
+		"url": "https://github.com/frantic0/maximilian-wasm/issues"
 	},
-	"homepage": "https://github.com/frantic0/maximilian-js#readme"
+	"homepage": "https://github.com/frantic0/maximilian-wasm#readme"
 }
