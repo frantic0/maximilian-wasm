@@ -1,5 +1,5 @@
-[submodule "src/Maximilian"]
-	path = src/opusfile
+
+[submodule "src/maximilian"]
+	path = src/maximilian
 	url = https://github.com/micknoise/Maximilian
-
-
+	branch = master
