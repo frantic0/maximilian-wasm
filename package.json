@@ -1,0 +1,22 @@
+{
+	"name": "maximilian-js",
+	"version": "0.0.1",
+	"description": "Wrapper around the Maximilian DSP and Audio Library",
+	"main": "dist/maximilian.js",
+	"files": [
+		"dist/*"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/frantic0/maximilian-js.git"
+	},
+	"keywords": [
+
+	],
+	"author": "frantic0",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/frantic0/maximilian-js/issues"
+	},
+	"homepage": "https://github.com/frantic0/maximilian-js#readme"
+}
