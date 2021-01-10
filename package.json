@@ -1,6 +1,6 @@
 {
 	"name": "maximilian-wasm",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Bundles the Maximilian DSP and Audio Library WASM into an NPM package with different JS module formats",
 	"main": "dist/maximilian.js",
 	"files": [
