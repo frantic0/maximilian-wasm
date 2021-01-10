@@ -1,6 +1,6 @@
 # maximilian-js
 
-`maximilian-wasm` is a Emscripten port of the Maximilian library to ES module
+`maximilian-wasm` is a Emscripten 2.0.11 port of the Maximilian library to ES module
 with WebAssembly (Wasm)
 # Building
 
